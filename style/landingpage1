@@ -1,0 +1,31 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="landingpage1.0">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700,500" rel="stylesheet" type="text/css">
+</head>
+<header><b>NEW</b>PROVIDENCE</header>
+<body>
+  <section class="new">
+    <div lcass="first">
+      <div id="lines"></div>
+      <a href="#">Tour</a>
+      <a href="#">Features</a>
+      <a href="#">Pricing</a>
+    </div>
+    <div class="second">
+      <a href="#">Help</a>
+      <a href="#">Contacts</a>
+      <a href="#">Get App</a>
+    </div>
+    <div class="therd">
+    <h2>What happens tomorrow?</h2>
+    <h3>The sight of the tumblers restored Bob Sawyerto a degree of equanimity which he had possessed his interview with his landlady. His face brightened up, and he began to feel quite convival.</h3>
+  </div>
+  <div class="watch">
+    <a href="#">Watch Video</a>
+  </div>
+  <div class="backgroundone">
+  </div>
+  </section>
+</body>
+  </html>

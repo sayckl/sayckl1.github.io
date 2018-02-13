@@ -1,0 +1,12 @@
+#lines {
+    border-bottom: 17px double black;
+    border-top: 6px solid black;
+    content:"";
+    height: 12px;
+    width: 20px;
+}
+
+.backgroundone {
+background-image: url(/New-Providence/images/banner_background.jpg);
+background-color: yellow;
+}

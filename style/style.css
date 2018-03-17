@@ -8,6 +8,9 @@
 section {
   z-index: 0;
 }
+body {
+  margin: 0;
+}
 .new {
   background-image: url(../images/banner_background.jpg);
   height: 1022px;
@@ -16,6 +19,7 @@ section {
   margin-bottom: 196px;
   text-align: center;
   padding-top: 60px;
+  overflow: hidden;
 }
 .top {
   display: flex;
@@ -185,7 +189,7 @@ font-size: 20px;
 .text_four {
   z-index: 2;
   display: block;
-  padding-left: 400px;
+  padding-left: 200px;
 }
 .partner b {
   text-transform: uppercase;
@@ -200,11 +204,10 @@ font-size: 20px;
   padding-bottom: 220px;
 }
 .map {
-  position: relative;
+  position: static;
   z-index: 1;
   padding-top: 30px;
-  display: flex;
-  justify-content: flex-end;
+  overflow: hidden;
 }
 .everywhere {
   display: flex;
@@ -323,6 +326,7 @@ font-size: 20px;
 .users img{
   margin: 60px;
   opacity: 0.25;
+  border-radius: 50%;
 }
 #reviewStars-input {
 
@@ -523,9 +527,10 @@ h2 {
 }
 .lines {
 border-top: 1px solid #ededee;
-width: 1090px;
+width: 700px;
 padding-top: 90px;
 margin-top: 80px;
+overflow: hidden;
 }
 .providences {
   width: 220px;
